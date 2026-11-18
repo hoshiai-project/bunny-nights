@@ -1,0 +1,1 @@
+(function(){if(window.bnImageGuard)return;window.bnImageGuard=true;document.addEventListener('contextmenu',function(event){if(event.target.closest&&event.target.closest('img,canvas'))event.preventDefault();});document.addEventListener('dragstart',function(event){if(event.target.closest&&event.target.closest('img,canvas'))event.preventDefault();});})();
