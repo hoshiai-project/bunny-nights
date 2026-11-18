@@ -77,13 +77,13 @@
 .ob2 .ob2-caption{z-index:3}
 @media(max-width:640px){.ob2 .ob2-catchcopy{font-size:20px;bottom:calc(3% + 32px);letter-spacing:.04em;display:block}.ob2 .ob2-catchcopy span{display:block}}
 
-.ob2 .ob2-portrait img{background:#211a26 url("../images/lounge.png") center center / cover no-repeat}
+.ob2 .ob2-portrait img{background:#211a26 url("../images/lounge.webp") center center / cover no-repeat}
 
 .ob2.ob2-motion .ob2-catchcopy{animation:ob2-copy-in 1.4s ease both;animation-delay:.2s}
 @keyframes ob2-copy-in{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
 @media(prefers-reduced-motion:reduce){.ob2.ob2-motion .ob2-catchcopy{animation:none!important}}
 
-.ob2 img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.png") center center / cover no-repeat}
+.ob2 img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.webp") center center / cover no-repeat}
 
 .ob2 .ob2-head{height:120px;gap:16px;z-index:1000}
 .ob2 .ob2-logo{display:block;margin:0;flex-shrink:1;min-width:0;line-height:0}

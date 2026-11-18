@@ -84,7 +84,7 @@
 
 .obc .obc-section .obc-pace-title{margin-top:28px}
 
-.obc img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.png") center center / cover no-repeat}
+.obc img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.webp") center center / cover no-repeat}
 
 .obc .obc-head{height:120px;gap:16px;z-index:1000}
 .obc .obc-logo{display:block;margin:0;flex-shrink:1;min-width:0;line-height:0}

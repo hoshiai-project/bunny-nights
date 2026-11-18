@@ -80,7 +80,7 @@
 .obg .obg-menu[open] summary span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
 .obg nav a[aria-current="page"] {color:#e2c4e9}
 
-.obg img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.png") center center / cover no-repeat}
+.obg img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.webp") center center / cover no-repeat}
 
 .obg .obg-head{height:120px;gap:16px;z-index:1000}
 .obg .obg-logo{display:block;margin:0;flex-shrink:1;min-width:0;line-height:0}

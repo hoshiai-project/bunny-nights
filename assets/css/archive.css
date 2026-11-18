@@ -94,7 +94,7 @@
 .obh .obh-photo:focus-visible,.obh .obh-close:focus-visible{outline:2px solid #e2c4e9;outline-offset:4px}
 @media(max-width:640px){.obh .obh-cast-grid,.obh .obh-scene-grid{grid-template-columns:1fr;gap:24px}.obh .obh-cast-grid .obh-tile:first-child{grid-column:auto}}
 
-.obh img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.png") center center / cover no-repeat}
+.obh img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.webp") center center / cover no-repeat}
 
 .obh .obh-head{height:120px;gap:16px;z-index:1000}
 .obh .obh-logo{display:block;margin:0;flex-shrink:1;min-width:0;line-height:0}

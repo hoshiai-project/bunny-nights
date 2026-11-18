@@ -76,7 +76,7 @@
 .oba .oba-vip{margin:28px 0;padding:24px 0;border-top:1px solid #443849;border-bottom:1px solid #443849}.oba .oba-vip h3{color:#e2c4e9}
 .oba .oba-intro h1{font-family:"Yu Mincho","Hiragino Mincho ProN",serif;font-size:clamp(32px,5vw,64px);line-height:1.5}
 .oba .oba-history{padding:32px 0 46px;margin-bottom:40px;border-top:1px solid #443849;border-bottom:1px solid #443849}.oba .oba-history p{font-size:14px;line-height:2.4;color:#d8cfdc}.oba .oba-history h2{color:#f5f1f5;font-size:clamp(23px,2.5vw,34px)}
-.oba img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.png") center center / cover no-repeat}
+.oba img[src^="../images/photo-coming-soon.svg"]{background:#211a26 url("../images/lounge.webp") center center / cover no-repeat}
 
 .oba .oba-head{height:120px;gap:16px;z-index:1000}
 .oba .oba-logo{display:block;margin:0;flex-shrink:1;min-width:0;line-height:0}
